@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fzbiosn
 - 👀 I’m interested in Automation, Tests, Robotic, Python, Design Patterns.
-- 🌱 I’m currently learning Automation Anywhere.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Automation Anywhere 360, UiPath and others products automations.
+- 💞️ I’m looking to collaborate on career, robotic process automation and tips.
 - 📫 How to reach me ...
 
 <!---
